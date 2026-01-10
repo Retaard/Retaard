@@ -11,5 +11,5 @@
 ---
 
 ## AI Projects:
-- [AIworm](https://github.com/Retaard/AIWorm)
+- [Web Xworm](https://github.com/Retaard/AIWorm)
 - [Lazy External](https://github.com/Retaard/LAZY-EXTERNAL)
